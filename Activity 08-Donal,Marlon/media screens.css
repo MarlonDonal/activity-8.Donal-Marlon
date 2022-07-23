@@ -1,0 +1,54 @@
+@media screen and (min-width: 576px) and (max-width: 1425px){
+    #header{
+     height: 350px;
+    }
+    
+    }
+
+    @media screen and (min-width: 576px) and (max-width: 1425px){
+        #search-box{
+            margin-left: ;
+        }
+        .search-text{
+            margin-left: -600px;
+            margin-top: -16px;
+            
+
+           
+       
+       
+            
+        }
+        .searchbtn{
+            margin-left: -600px;
+            margin-top: -16px;
+      
+            
+       
+     
+            
+        }
+        #box{
+            margin-left: 320px ;
+            width: 800px;
+            margin-top: -1100px;
+            height: 70px;
+       
+            
+
+
+        }
+        
+        
+        }         
+
+
+@media screen and (min-width: 576px) and (max-width: 1425px){
+        .lorem-ipsum{
+         margin-top: -190px;
+         font-size: 270%;
+         
+        }
+        
+        } 
+

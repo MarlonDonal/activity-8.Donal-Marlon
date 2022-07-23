@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+#header{
+               background-color: #1f3f66;
+               color:white;
+               text-align: center;
+               width: 1425px;
+               height: 119px;
+               
+                
+           }
+.about{
+    font-size: 40px;
+    font-family: verdana;
+    color: white;
+    margin-top: -125px;
+    margin-left: 620px;
+}
